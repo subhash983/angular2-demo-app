@@ -1,7 +1,7 @@
 {
-  "name": "angular-quickstart",
+  "name": "angular4-demo-app",
   "version": "1.0.0",
-  "description": "QuickStart package.json from the documentation, supplemented with testing support",
+  "description": "Angular4 Demo package.json",
   "scripts": {
     "build": "tsc -p src/",
     "build:watch": "tsc -p src/ -w",
